@@ -8,6 +8,6 @@ See https://www.svgrepo.com
 
 See [flaticon](https://www.flaticon.com)
 
-## IconMoon
+## IcoMoon
 
 See https://icomoon.io
